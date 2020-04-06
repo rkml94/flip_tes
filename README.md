@@ -15,19 +15,9 @@ NB :
 # clone the repo
 $ git clone https://github.com/rkml94/flip_tes.git
 
-# go into app's directory
-$ cd my-project
 
-# install app's dependencies
-$ npm install
-```
+// Copy all your files to your project folder and then,
 
-
-### Copy and Paste
-
-Copy all your files to your project folder and then,
-
-``` bash
 # masuk ke directory project
 $ cd test_flip or flip_tes (sesuai nama folder hasil extract)
 
